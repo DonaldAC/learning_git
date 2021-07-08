@@ -1,1 +1,3 @@
 some text for example
+
+texte additionnel pour la pratique de git sur l'environnement theia
